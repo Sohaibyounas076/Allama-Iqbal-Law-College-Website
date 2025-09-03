@@ -84,7 +84,7 @@ The project was successfully completed in **just 4 days**, achieving significant
 **Sohaib Younas**  
 
 - 🌐 [Portfolio](https://sohaibyounas076.github.io/portfolio/)  
-- 💼 [LinkedIn](https://linkedin.com/in/sohaibyounas)  
+- 💼 [LinkedIn](https://linkedin.com/in/sohaibyounas076)  
 - 📂 [GitHub](https://github.com/Sohaibyounas076)  
 
 ---
