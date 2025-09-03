@@ -36,9 +36,10 @@ The project was successfully completed in **just 4 days**, achieving significant
 🔗 **Live Website:** [Allama Iqbal Law College](https://alcsargodha.com/)  
 
 ### Screenshots  
- – Featuring CEO message and program info - ![Home Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_home.png) 
-– College intro & contact information- ![About Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_about.png)   
-– Detailed LL.B program curriculum - ![Academics Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_about.png)   
+ – Featuring CEO message and program info - ![Home Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_home.png)<br> 
+– College intro & contact information- ![About Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_about.png) 
+<br>
+– Detailed LL.B program curriculum - ![Academics Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_academics.png)   
 
 ---
 
@@ -48,11 +49,10 @@ The project was successfully completed in **just 4 days**, achieving significant
 - **Before Optimization:** 31/100 (❌ Poor)  
 - **After Optimization:** 94/100 (✅ Excellent)  
 
-![Before SEO Report](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/Before_ALC-Seo_Report.png)  
-*SEO score before optimization*  
-
-![After SEO Report](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/After_ALC-Seo_Report.png)  
-*SEO score after optimization*  
+*SEO score before optimization* ![Before SEO Report](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/Before_ALC-Seo_Report.png)  
+<br>  
+*SEO score after optimization* ![After SEO Report](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/After_ALC-Seo_Report.png)  
+  
 
 ### Critical Issues Resolved  
 - Fixed **18 critical SEO issues** from initial audit  
