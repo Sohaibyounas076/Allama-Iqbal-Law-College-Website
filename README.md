@@ -36,9 +36,9 @@ The project was successfully completed in **just 4 days**, achieving significant
 🔗 **Live Website:** [Allama Iqbal Law College](https://alcsargodha.com/)  
 
 ### Screenshots  
-- ![Home Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_home.png) – Featuring CEO message and program info  
-- ![About Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_about.png) – College intro & contact information  
-- ![Academics Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_about.png) – Detailed LL.B program curriculum  
+ – Featuring CEO message and program info - ![Home Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_home.png) 
+– College intro & contact information- ![About Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_about.png)   
+– Detailed LL.B program curriculum - ![Academics Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_about.png)   
 
 ---
 
