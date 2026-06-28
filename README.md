@@ -58,16 +58,26 @@ The project was successfully completed in **just 4 days**, achieving significant
 </table>
 ---
 
-## 📈 Results Achieved  
+## 📈 SEO Results Achieved
 
-### SEO Score Improvement  
-- **Before Optimization:** 31/100 (❌ Poor)  
-- **After Optimization:** 94/100 (✅ Excellent)  
+### SEO Score Improvement
+- **Before Optimization:** 31/100 (❌ Poor)
+- **After Optimization:** 94/100 (✅ Excellent)
 
-*SEO score before optimization* ![Before SEO Report](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/Before_ALC-Seo_Report.png)  
-<br>  
-*SEO score after optimization* ![After SEO Report](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/After_ALC-Seo_Report.png)  
-  
+<table>
+  <tr>
+    <td align="center">
+      <b>Before</b><br>
+      <i>SEO score before optimization</i><br>
+      <img src="Screenshots/Before_ALC-Seo_Report.png" width="320">
+    </td>
+    <td align="center">
+      <b>After</b><br>
+      <i>SEO score after optimization</i><br>
+      <img src="Screenshots/After_ALC-Seo_Report.png" width="320">
+    </td>
+  </tr>
+</table>
 
 ### Critical Issues Resolved  
 - Fixed **18 critical SEO issues** from initial audit  
