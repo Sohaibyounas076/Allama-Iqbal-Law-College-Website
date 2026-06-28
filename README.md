@@ -35,12 +35,27 @@ The project was successfully completed in **just 4 days**, achieving significant
 
 🔗 **Live Website:** [Allama Iqbal Law College](https://alcsargodha.com/)  
 
-### Screenshots  
- – Featuring CEO message and program info - ![Home Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_home.png)<br> 
-– College intro & contact information- ![About Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_about.png) 
-<br>
-– Detailed LL.B program curriculum - ![Academics Page](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/alcsargodha.com_academics.png)   
+### Screenshots
 
+<table>
+  <tr>
+    <td align="center">
+      <b>Home Page</b><br>
+      Featuring CEO message and program info<br>
+      <img src="Screenshots/alcsargodha.com_home.png" width="260">
+    </td>
+    <td align="center">
+      <b>About Page</b><br>
+      College intro & contact information<br>
+      <img src="Screenshots/alcsargodha.com_about.png" width="260">
+    </td>
+    <td align="center">
+      <b>Academics Page</b><br>
+      Detailed LL.B program curriculum<br>
+      <img src="Screenshots/alcsargodha.com_academics.png" width="260">
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📈 Results Achieved  
